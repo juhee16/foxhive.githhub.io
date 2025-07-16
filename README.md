@@ -1,1 +1,1 @@
-# foxhive.githhub.io
+# foxhive.github.io
